@@ -1,7 +1,6 @@
 # Unity generated and a few customs #
 # ================================= #
 Temp/*
-Library/*
 Build/*
 Obj/*
 WebBuild/*
@@ -18,7 +17,6 @@ ExportedObj/*
 *.suo
 *.sln
 *.user
-*.unityproj
 *.booproj
 *.log
 # Ignore UnityVS so users can use different versions
